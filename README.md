@@ -84,4 +84,4 @@ O produto Tênis aparece com preço fixo de R$ 2,30 em todos os registros, enqua
 
 ## Autor
 
-Henrique Amorim, estudante de Análise e Desenvolvimento de Sistemas, com foco em análise de dados e BI.
+Henrique Amorim
