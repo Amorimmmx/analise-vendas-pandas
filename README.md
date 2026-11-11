@@ -69,10 +69,10 @@ O produto Tênis aparece com preço fixo de R$ 2,30 em todos os registros, enqua
 
 ```
 .
-├── analise_vendas.py
 ├── Base de Dados.xlsx
+├── README.md
 ├── Relatorio_Analise_de_Vendas_v2.pdf
-└── README.md
+└── analise_vendas.py
 ```
 
 ## Tecnologias
